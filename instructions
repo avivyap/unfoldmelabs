@@ -1,0 +1,28 @@
+Hello
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//Created by avivyap//
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Welcome to this project, this is a repo to created your best machine for pentesting, this repo install php,nmap,mysql and more things to hacking and doing hacking.
+
+The first you need to do a 
+
+		chmod +x unfoldmelabs.sh
+
+To give permisions to ejecuted the script.
+
+And now you need do a 
+		
+		./unfoldmelabs.sh
+
+
+To ejecuted the script
+
+When you are done give permissions to the delete_repository script and it will delete the repository leaving you with only the tools and folders.
+
+If you like this repo you can put a start in github :)
+
+This is my ig @avivyap
+
+Thanks!!
