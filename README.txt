@@ -1,1 +1,1 @@
-Herramienta perfecta para obtener muchos laboratorios para practicar hacking
+Herramienta perfecta para obtener distintos  laboratorios para practicar hacking
