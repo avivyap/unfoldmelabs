@@ -2,7 +2,7 @@ echo -e "\e[33m[+] Se va a borrar el repositorio\e[0m"
 
 sleep 3
 
-rm -r unfoldme.sh
+rm -r unfoldmelabs.sh
 
 
 rm -r instrucciones
